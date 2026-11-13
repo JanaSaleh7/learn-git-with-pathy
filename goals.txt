@@ -1,0 +1,2 @@
+1- dealing with command line
+2- deffrences between git and git hub
